@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A93226&size=18&lines=Hey+There!+I'm+Skander+Ouada!;Software+Architecture+Engineering+Student;Front+And+Back+End+Developer;Always%20Seeking%20New%20Things%20To%20Learn)](https://git.io/typing-svg) 
 
-I'm Mohamed Skander Ouada a 24 year-old Software Architechure Engineering Student in Tunisia at Esprit University, I'm looking to learn as much as I can and be the best at what I do all while having fun doing it. I love listening to music, watch movies and playing video games.
+I'm Mohamed Skander Ouada a 24 year-old Software Architechure Engineer in Tunisia graduating from Esprit University, I'm looking to learn as much as I can and be the best at what I do all while having fun doing it. I love listening to music, watch movies and playing video games.
 # <b> Let's get to know each other..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
   [![Linkedin Badge](https://img.shields.io/badge/-MohamedSkanderOuada-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedskander-ouada-54391b217/)
 ## You can contact me via this e-mail: skanderouada008@gmail.com
